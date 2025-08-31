@@ -1,0 +1,2 @@
+Restoring modules from user's adaptive-module
+  0%|          | 0/1 [00:00<?, ?it/s]slurmstepd: error: *** JOB 8988143 ON dgx23 CANCELLED AT 2025-07-18T14:50:47 ***

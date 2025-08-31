@@ -1,0 +1,116 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) triton/2024.1-gcc
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization2.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+Loaded data from ../experiments/processed/nuScenes_test_mini_full.pkl
+
+Loading from ../experiments/nuScenes/models/int_ee/model_registrar-12.pt
+Loaded!
+
+t=2: took 4.69 s (= 0.21 Hz) w/ 32 nodes and 137 edges
+t=3: took 2.04 s (= 0.49 Hz) w/ 35 nodes and 152 edges
+t=4: took 0.84 s (= 1.19 Hz) w/ 39 nodes and 180 edges
+t=5: took 4.80 s (= 0.21 Hz) w/ 40 nodes and 258 edges
+t=6: took 3.19 s (= 0.31 Hz) w/ 42 nodes and 284 edges
+t=7: took 3.64 s (= 0.27 Hz) w/ 42 nodes and 280 edges
+t=8: took 5.48 s (= 0.18 Hz) w/ 42 nodes and 269 edges
+t=9: took 3.81 s (= 0.26 Hz) w/ 42 nodes and 247 edges
+t=10: took 2.72 s (= 0.37 Hz) w/ 42 nodes and 248 edges
+t=11: took 3.46 s (= 0.29 Hz) w/ 40 nodes and 233 edges
+t=12: took 2.00 s (= 0.50 Hz) w/ 37 nodes and 219 edges
+t=13: took 3.21 s (= 0.31 Hz) w/ 35 nodes and 212 edges
+t=14: took 0.86 s (= 1.16 Hz) w/ 37 nodes and 185 edges
+t=15: took 1.30 s (= 0.77 Hz) w/ 35 nodes and 176 edges
+t=16: took 3.18 s (= 0.31 Hz) w/ 35 nodes and 162 edges
+t=17: took 1.31 s (= 0.76 Hz) w/ 33 nodes and 150 edges
+t=18: took 0.75 s (= 1.33 Hz) w/ 32 nodes and 145 edges
+t=19: took 2.16 s (= 0.46 Hz) w/ 32 nodes and 148 edges
+t=20: took 1.49 s (= 0.67 Hz) w/ 34 nodes and 150 edges
+t=21: took 2.15 s (= 0.47 Hz) w/ 34 nodes and 139 edges
+t=22: took 1.33 s (= 0.75 Hz) w/ 34 nodes and 139 edges
+t=23: took 0.70 s (= 1.43 Hz) w/ 33 nodes and 139 edges
+t=24: took 0.82 s (= 1.22 Hz) w/ 34 nodes and 141 edges
+t=25: took 1.18 s (= 0.85 Hz) w/ 34 nodes and 135 edges
+t=26: took 0.69 s (= 1.46 Hz) w/ 33 nodes and 127 edges
+t=27: took 2.23 s (= 0.45 Hz) w/ 32 nodes and 120 edges
+t=28: took 1.06 s (= 0.94 Hz) w/ 30 nodes and 120 edges
+t=29: took 1.39 s (= 0.72 Hz) w/ 30 nodes and 112 edges
+t=30: took 0.40 s (= 2.51 Hz) w/ 30 nodes and 105 edges
+t=31: took 0.38 s (= 2.64 Hz) w/ 29 nodes and 106 edges
+t=32: took 0.45 s (= 2.22 Hz) w/ 28 nodes and 81 edges
+t=33: took 0.94 s (= 1.07 Hz) w/ 24 nodes and 72 edges
+t=34: took 1.22 s (= 0.82 Hz) w/ 24 nodes and 65 edges
+t=35: took 0.30 s (= 3.32 Hz) w/ 23 nodes and 52 edges
+t=36: took 0.34 s (= 2.98 Hz) w/ 21 nodes and 45 edges
+t=37: took 0.29 s (= 3.42 Hz) w/ 20 nodes and 33 edges
+t=38: took 0.68 s (= 1.46 Hz) w/ 18 nodes and 20 edges

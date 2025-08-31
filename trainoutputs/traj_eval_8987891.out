@@ -1,0 +1,4 @@
+Restoring modules from user's adaptive-module
+  0%|          | 0/1 [00:00<?, ?it/s]/var/spool/slurmd/job8987891/slurm_script: line 16: 91973 Killed                  python evaluate.py --model models/hotel_vel --checkpoint 100 --data ../processed/hotel_test.pkl --output_path results --output_tag hotel_vel_12 --node_type PEDESTRIAN
+  0%|          | 0/2 [00:00<?, ?it/s] 50%|█████     | 1/2 [00:22<00:22, 22.95s/it]100%|██████████| 2/2 [00:55<00:00, 25.78s/it]100%|██████████| 2/2 [00:55<00:00, 27.68s/it]slurmstepd: error: *** JOB 8987891 ON dgx20 CANCELLED AT 2025-07-18T14:27:57 ***
+slurmstepd: error: Detected 1 oom_kill event in StepId=8987891.batch. Some of the step tasks have been OOM Killed.

@@ -1,0 +1,10 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) triton/2024.1-gcc
+Traceback (most recent call last):
+  File "test_online2.py", line 10, in <module>
+    import visualization2 as vis
+  File "/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/__init__.py", line 1, in <module>
+    from .visualization2 import visualize_prediction, visualize_distribution
+ImportError: cannot import name 'visualize_distribution'

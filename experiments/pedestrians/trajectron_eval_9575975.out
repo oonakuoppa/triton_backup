@@ -1,0 +1,19 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) triton/2024.1-gcc
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:36<00:00, 36.84s/it]100%|██████████| 1/1 [00:36<00:00, 36.86s/it]
+  0%|          | 0/117 [00:00<?, ?it/s]  1%|          | 1/117 [00:03<06:28,  3.35s/it]  2%|▏         | 2/117 [00:03<04:44,  2.48s/it]  3%|▎         | 4/117 [00:03<03:18,  1.75s/it] 19%|█▉        | 22/117 [00:04<01:57,  1.24s/it] 21%|██        | 24/117 [00:06<01:45,  1.13s/it] 32%|███▏      | 38/117 [00:06<01:02,  1.26it/s] 50%|████▉     | 58/117 [00:06<00:33,  1.79it/s] 64%|██████▍   | 75/117 [00:07<00:16,  2.50it/s] 69%|██████▉   | 81/117 [00:10<00:15,  2.37it/s] 74%|███████▎  | 86/117 [00:11<00:12,  2.52it/s] 77%|███████▋  | 90/117 [00:13<00:11,  2.27it/s] 79%|███████▉  | 93/117 [00:15<00:10,  2.25it/s] 81%|████████  | 95/117 [00:16<00:09,  2.21it/s] 83%|████████▎ | 97/117 [00:18<00:12,  1.66it/s] 87%|████████▋ | 102/117 [00:18<00:06,  2.28it/s] 91%|█████████ | 106/117 [00:18<00:03,  2.98it/s] 96%|█████████▌| 112/117 [00:19<00:01,  4.00it/s] 97%|█████████▋| 114/117 [00:20<00:01,  2.80it/s] 99%|█████████▉| 116/117 [00:21<00:00,  2.67it/s]100%|██████████| 117/117 [00:21<00:00,  5.54it/s]
+
+Loading from /scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/experiments/pedestrians/models/eth_attention_radius_3/model_registrar-100.pt
+Loaded!
+
+-- Preparing Node Graph
+-- Evaluating Mode Z
+---- Evaluating Scene 1/1
+Traceback (most recent call last):
+  File "evaluate_oma2.py", line 265, in <module>
+    save_predictions_for_visualization(all_predictions, scene, i, args.output_path, args.output_tag, mode_type="z_mode")
+  File "evaluate_oma2.py", line 105, in save_predictions_for_visualization
+    'timestep': int(t),
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'Node'

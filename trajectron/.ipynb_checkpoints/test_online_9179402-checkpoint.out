@@ -1,0 +1,46 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) triton/2024.1-gcc
+Loaded data from ../experiments/processed/nuScenes_test_mini_full.pkl
+
+Loading from ../experiments/nuScenes/models/vel_ee/model_registrar-12.pt
+Loaded!
+
+t=2: took 0.69 s (= 1.44 Hz) w/ 32 nodes and 137 edges
+t=3: took 0.12 s (= 8.60 Hz) w/ 35 nodes and 152 edges
+t=4: took 0.12 s (= 8.65 Hz) w/ 39 nodes and 180 edges
+t=5: took 0.14 s (= 7.22 Hz) w/ 40 nodes and 258 edges
+t=6: took 0.14 s (= 7.24 Hz) w/ 42 nodes and 284 edges
+t=7: took 0.14 s (= 7.14 Hz) w/ 42 nodes and 280 edges
+t=8: took 0.14 s (= 7.25 Hz) w/ 42 nodes and 269 edges
+t=9: took 0.13 s (= 7.42 Hz) w/ 42 nodes and 247 edges
+t=10: took 0.13 s (= 7.47 Hz) w/ 42 nodes and 248 edges
+t=11: took 0.13 s (= 7.99 Hz) w/ 40 nodes and 233 edges
+t=12: took 0.12 s (= 8.53 Hz) w/ 37 nodes and 219 edges
+t=13: took 0.11 s (= 8.77 Hz) w/ 35 nodes and 212 edges
+t=14: took 0.17 s (= 5.75 Hz) w/ 37 nodes and 185 edges
+t=15: took 0.11 s (= 8.86 Hz) w/ 35 nodes and 176 edges
+t=16: took 0.11 s (= 9.37 Hz) w/ 35 nodes and 162 edges
+t=17: took 0.10 s (= 9.76 Hz) w/ 33 nodes and 150 edges
+t=18: took 0.10 s (= 9.84 Hz) w/ 32 nodes and 145 edges
+t=19: took 0.10 s (= 9.81 Hz) w/ 32 nodes and 148 edges
+t=20: took 0.11 s (= 9.09 Hz) w/ 34 nodes and 150 edges
+t=21: took 0.11 s (= 9.40 Hz) w/ 34 nodes and 139 edges
+t=22: took 0.11 s (= 9.39 Hz) w/ 34 nodes and 139 edges
+t=23: took 0.11 s (= 9.49 Hz) w/ 33 nodes and 139 edges
+t=24: took 0.11 s (= 9.33 Hz) w/ 34 nodes and 141 edges
+t=25: took 0.11 s (= 9.33 Hz) w/ 34 nodes and 135 edges
+t=26: took 0.10 s (= 9.94 Hz) w/ 33 nodes and 127 edges
+t=27: took 0.09 s (= 10.60 Hz) w/ 32 nodes and 120 edges
+t=28: took 0.09 s (= 10.64 Hz) w/ 30 nodes and 120 edges
+t=29: took 0.09 s (= 10.94 Hz) w/ 30 nodes and 112 edges
+t=30: took 0.09 s (= 10.79 Hz) w/ 30 nodes and 105 edges
+t=31: took 0.09 s (= 11.32 Hz) w/ 29 nodes and 106 edges
+t=32: took 0.08 s (= 13.16 Hz) w/ 28 nodes and 81 edges
+t=33: took 0.07 s (= 13.88 Hz) w/ 24 nodes and 72 edges
+t=34: took 0.07 s (= 13.71 Hz) w/ 24 nodes and 65 edges
+t=35: took 0.07 s (= 15.28 Hz) w/ 23 nodes and 52 edges
+t=36: took 0.06 s (= 16.45 Hz) w/ 21 nodes and 45 edges
+t=37: took 0.06 s (= 17.99 Hz) w/ 20 nodes and 33 edges
+t=38: took 0.04 s (= 23.45 Hz) w/ 18 nodes and 20 edges

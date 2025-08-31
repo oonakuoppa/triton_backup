@@ -1,0 +1,3 @@
+Restoring modules from user's adaptive-module
+  0%|          | 0/1 [00:00<?, ?it/s]/var/spool/slurmd/job8988018/slurm_script: line 16: 93933 Killed                  python evaluate.py --model models/hotel_vel --checkpoint 100 --data ../processed/hotel_test.pkl --output_path results --output_tag hotel_vel_12 --node_type PEDESTRIAN
+slurmstepd: error: Detected 1 oom_kill event in StepId=8988018.batch. Some of the step tasks have been OOM Killed.

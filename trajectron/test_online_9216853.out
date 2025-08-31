@@ -1,0 +1,8 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) triton/2024.1-gcc
+Traceback (most recent call last):
+  File "test_online2.py", line 10, in <module>
+    import visualization2 as vis
+ModuleNotFoundError: No module named 'visualization2'

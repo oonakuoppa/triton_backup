@@ -107,7 +107,7 @@ def get_maps_for_input(input_dict, scene, hyperparams):
 def main():
     # Choose one of the model directory names under the experiment/*/models folders.
     # Possibilities are 'vel_ee', 'int_ee', 'int_ee_me', or 'robot'
-    model_dir = os.path.join(args.log_dir, 'int_ee')
+    model_dir = os.path.join(args.log_dir, 'vel_ee')
 
     # Load hyperparameters from json
     config_file = os.path.join(model_dir, args.conf)

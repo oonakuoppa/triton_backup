@@ -1,0 +1,14 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) triton/2024.1-gcc
+Traceback (most recent call last):
+  File "evaluate.py", line 46, in <module>
+    with open(args.data, 'rb') as f:
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+/var/spool/slurmd/job9575932/slurm_script: line 45: --model: command not found
+/var/spool/slurmd/job9575932/slurm_script: line 47: --checkpoint: command not found
+/var/spool/slurmd/job9575932/slurm_script: line 49: --data: command not found
+/var/spool/slurmd/job9575932/slurm_script: line 51: --output_path: command not found
+/var/spool/slurmd/job9575932/slurm_script: line 53: --output_tag: command not found
+/var/spool/slurmd/job9575932/slurm_script: line 55: --node_type: command not found

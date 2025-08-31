@@ -1,0 +1,22 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) triton/2024.1-gcc
+/scratch/work/kuoppao1/Trajectron-plus-plus_project/Trajectron-plus-plus/trajectron/visualization2/visualization.py:120: RuntimeWarning: invalid value encountered in sqrt
+  v = 2. * np.sqrt(2.) * np.sqrt(v)
+Loaded data from ../experiments/processed/nuScenes_test_mini_full.pkl
+
+Loading from ../experiments/nuScenes/models/int_ee/model_registrar-12.pt
+Loaded!
+
+t=2: took 0.84 s (= 1.20 Hz) w/ 32 nodes and 137 edges
+Traceback (most recent call last):
+  File "test_online2.py", line 202, in <module>
+    main()
+  File "test_online2.py", line 195, in main
+    ax.set_xlim([min_x, max_x])
+  File "/scratch/work/kuoppao1/.conda_envs/trajectron++/lib/python3.6/site-packages/matplotlib/axes/_base.py", line 3294, in set_xlim
+    left = self._validate_converted_limits(left, self.convert_xunits)
+  File "/scratch/work/kuoppao1/.conda_envs/trajectron++/lib/python3.6/site-packages/matplotlib/axes/_base.py", line 3211, in _validate_converted_limits
+    raise ValueError("Axis limits cannot be NaN or Inf")
+ValueError: Axis limits cannot be NaN or Inf

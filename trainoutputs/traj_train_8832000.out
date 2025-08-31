@@ -1,0 +1,23 @@
+Restoring modules from user's adaptive-module
+-----------------------
+| TRAINING PARAMETERS |
+-----------------------
+| batch_size: 256
+| device: cuda:0
+| eval_device: cpu
+| Offline Scene Graph Calculation: yes
+| EE state_combine_method: sum
+| EIE scheme: attention
+| dynamic_edges: yes
+| robot node: False
+| edge_addition_filter: [0.25, 0.5, 0.75, 1.0]
+| edge_removal_filter: [1.0, 0.0]
+| MHL: 1
+| PH: 12
+-----------------------
+Traceback (most recent call last):
+  File "../../trajectron/train.py", line 440, in <module>
+    main()
+  File "../../trajectron/train.py", line 109, in main
+    with open(train_data_path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: '../experiments/processed/eth_train.pkl'
